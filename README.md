@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanbenit
 - 👀 I’m interested in NODE JS, REACT JS AND OTHERS.
 - 🌱 I’m currently learning PHP, NODE AND REACT NATIVE.
-- 💞️ I’m looking to collaborate on FBB.
+- 💞️ I’m looking to collaborate on BB.
 - 📫 How to reach me: alandersonbenites@gmail.com.
 
 <!---
